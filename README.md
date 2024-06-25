@@ -24,3 +24,8 @@ This agent-based modelling project aims to model the distribution of eye colors 
 * Population Update: Update the population with the new generation's individuals.
 * Data Collection: Collect and store data on the eye color distribution for each generation.
 * Visualization: Display the evolving distribution through graphs and charts.
+
+## Future Enhancements
+* Expanded Genetic Traits: Incorporate additional genetic traits beyond eye color.
+* Environmental Factors: Include environmental influences on population dynamics.
+* Complex Inheritance Patterns: Model more complex inheritance patterns, including polygenic traits and mutations.
