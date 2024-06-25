@@ -1,5 +1,7 @@
 # population_eye_repartition
 
+![Project Banner](Project.jpg)
+
 ## Overview
 This agent-based modelling project aims to model the distribution of eye colors in a population over multiple generations using the NetLogo platform. By incorporating various parameters such as the initial proportion of each eye color and the average number of children per family, this simulation provides insights into how these factors influence the genetic inheritance and prevalence of different eye colors over time.
 
